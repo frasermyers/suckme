@@ -15,3 +15,4 @@ while i > 0:
 
     i -= 1
 
+SOME_MORE_CHANGES = "Cool"
